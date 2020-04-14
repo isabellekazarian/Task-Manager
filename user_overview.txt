@@ -1,0 +1,61 @@
+User Overview  ------------------------------------------
+
+Total number of registered users:  7
+Total number of tasks:             8
+
+
+Task Overview: admin  -----------------------------------
+
+Total number of assigned tasks:  3
+Percent of total tasks:          38%
+
+Assigned Tasks Completed %:      67%
+Assigned Tasks Incomplete %:     33%
+Assigned Tasks Overdue %:        33%
+
+
+Task Overview: letty  -----------------------------------
+
+User does not have any assigned tasks.
+
+
+Task Overview: green  -----------------------------------
+
+Total number of assigned tasks:  1
+Percent of total tasks:          12%
+
+Assigned Tasks Completed %:      100%
+Assigned Tasks Incomplete %:     0%
+Assigned Tasks Overdue %:        0%
+
+
+Task Overview: testUser  --------------------------------
+
+User does not have any assigned tasks.
+
+
+Task Overview: purple  ----------------------------------
+
+Total number of assigned tasks:  2
+Percent of total tasks:          25%
+
+Assigned Tasks Completed %:      0%
+Assigned Tasks Incomplete %:     100%
+Assigned Tasks Overdue %:        0%
+
+
+Task Overview: peanut  ----------------------------------
+
+User does not have any assigned tasks.
+
+
+Task Overview: Amy  -------------------------------------
+
+Total number of assigned tasks:  1
+Percent of total tasks:          12%
+
+Assigned Tasks Completed %:      0%
+Assigned Tasks Incomplete %:     100%
+Assigned Tasks Overdue %:        0%
+
+

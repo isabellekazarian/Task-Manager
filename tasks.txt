@@ -1,0 +1,8 @@
+admin, help, words for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+green, newer task, This is the newest task I have created, 17 Mar 2020, 27 Mar 2020, Yes
+happy, test the task manager file, exactly what the task is, 17 Mar 2020, 02 Apr 2020, No
+purple, This is a test task, Testing the description for the test task, 20 Mar 2020, 19 Apr 2020, No
+purple, Test Task 2, Description for yet another test task, 20 Mar 2020, 19 Apr 2020, No
+admin, Eat Lunch, Eat ham and cheese sandwich for lunch, 24 Mar 2020, 26 Mar 2020, Yes
+Amy, Cash Receipts, Process cash receipts for first 200 customers, 25 Mar 2020, 02 Apr 2020, Yes
