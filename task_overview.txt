@@ -1,7 +1,0 @@
-Task Overview  -------------------------------------------
-Total number of tasks:  8
-
-Tasks Completed:        3	Percent of total:  38%
-Tasks Incomplete:       5	Percent of total:  62%
-Tasks Overdue:          1	Percent of total:  12%
-
