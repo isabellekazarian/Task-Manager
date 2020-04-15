@@ -774,11 +774,14 @@ for line in userFile :
 taskFile.seek(0)
 for line in taskFile :
     line = line.replace("\n", "")
-    line = line.split(", ")
-    taskList.append([line[0], line[1], line[2], line[3], line[4], line[5]])
 
     if line == "" or line == "\n" :
         continue  # skip empty lines
+    
+    line = line.split(", ")
+    taskList.append([line[0], line[1], line[2], line[3], line[4], line[5]])
+
+    
 
 
 

@@ -1,7 +1,1 @@
 admin, adm1n
-letty, miss
-green, yellow
-testUser, free
-purple, pink
-peanut, jelly
-Amy, Giles
