@@ -1,4 +1,7 @@
-# L1T25 - Task Manager
+# Task Manager
+
+## About
+This program acts as a task manager for multiple users. The adminstrator can create new users, assign tasks, and view statistics for all tasks. All users can view tasks and mark them as completed. Login is required to perform any action. Data is stored and updated in local text files.
 
 ## Prerequisites
 
